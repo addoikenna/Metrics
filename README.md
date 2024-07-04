@@ -4,7 +4,7 @@ This repository contains the projects I work on and details their implementation
 ## Projects Overview
 ### Project 1 - On Track Metrics
 #### *Description*:
-This project categorizes student activities based on their Engagement Levels. Engagement metrics include logging into the LMS, completing modules, quizzes, and the frequency of these actions over the past 7 and 14 days. Students are grouped into categories based on their overall engagement level.
+This project categorizes student activities based on their Engagement Levels. Engagement metrics include logging into the LMS, completing modules, and quizzes, and the frequency of these actions over the past 7 and 14 days. Students are grouped into categories based on their overall engagement level.
 
 #### *Benefits*:
 
@@ -15,14 +15,14 @@ This project categorizes student activities based on their Engagement Levels. En
 
 - A PowerBI report summarizing the findings is included in PDF format for stakeholder use in decision-making.
 
-### Project 2 - Students Badge
-#### Description:
+### Project 2 - Student Badge
+#### *Description*:
 - An enhancement of the On Track Metrics project, this project introduces a badging system to assign badges to students based on their monthly engagement levels.
 
-#### Approach:
+#### *Approach*:
 
 - The model evaluates student engagement for the month and assigns badges according to their engagement levels.
-#### Tools Used:
+#### *Tools Used*:
 - SQL
 - Python
 - Clustering Algorithm (KMeans)
